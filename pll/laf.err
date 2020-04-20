@@ -1,0 +1,128 @@
+Compilation errors on PKG_LOOK_AND_FEEL:
+PL/SQL ERROR 201 at line 1653, column 6
+identifier 'PKG_LAF.SELECT_BLOB' must be declared
+PL/SQL ERROR 0 at line 1653, column 3
+Statement ignored
+PL/SQL ERROR 201 at line 1697, column 11
+identifier 'PKG_LAF.INIT_TRANSFER' must be declared
+PL/SQL ERROR 0 at line 1697, column 11
+Statement ignored
+PL/SQL ERROR 201 at line 1700, column 8
+identifier 'PKG_LAF.SET_B64_CHUNK' must be declared
+PL/SQL ERROR 0 at line 1700, column 8
+Statement ignored
+PL/SQL ERROR 201 at line 1704, column 18
+identifier 'PKG_LAF.SAVE_BLOB' must be declared
+PL/SQL ERROR 0 at line 1704, column 8
+Statement ignored
+
+
+Compilation errors on PKG_LOB:
+PL/SQL ERROR 201 at line 27, column 15
+identifier 'PKG_LAF.SELECT_CLOB' must be declared
+PL/SQL ERROR 0 at line 27, column 6
+Statement ignored
+PL/SQL ERROR 201 at line 29, column 15
+identifier 'PKG_LAF.SELECT_NCLOB' must be declared
+PL/SQL ERROR 0 at line 29, column 6
+Statement ignored
+PL/SQL ERROR 201 at line 41, column 22
+identifier 'PKG_LAF.GET_CHUNK' must be declared
+PL/SQL ERROR 0 at line 41, column 10
+Statement ignored
+PL/SQL ERROR 201 at line 43, column 22
+identifier 'PKG_LAF.GET_NCHUNK' must be declared
+PL/SQL ERROR 0 at line 43, column 10
+Statement ignored
+PL/SQL ERROR 201 at line 95, column 3
+identifier 'PKG_LAF.INIT_TRANSFER_LOB' must be declared
+PL/SQL ERROR 0 at line 95, column 3
+Statement ignored
+PL/SQL ERROR 201 at line 103, column 8
+identifier 'PKG_LAF.SET_CHUNK' must be declared
+PL/SQL ERROR 0 at line 103, column 8
+Statement ignored
+PL/SQL ERROR 201 at line 105, column 7
+identifier 'PKG_LAF.SET_NCHUNK' must be declared
+PL/SQL ERROR 0 at line 105, column 7
+Statement ignored
+PL/SQL ERROR 201 at line 111, column 14
+identifier 'PKG_LAF.TRANSFER' must be declared
+PL/SQL ERROR 0 at line 111, column 3
+Statement ignored
+
+
+Compilation errors on PKG_LAF_LOV:
+PL/SQL ERROR 201 at line 36, column 18
+identifier 'PKG_DB_LAF_LOV.TYP_TAB_LOV_COL_WIDTH' must be declared
+PL/SQL ERROR 0 at line 36, column 18
+Item ignored
+PL/SQL ERROR 201 at line 46, column 14
+identifier 'PKG_DB_LAF_LOV.PREPARE_LOV' must be declared
+PL/SQL ERROR 0 at line 46, column 2
+Statement ignored
+PL/SQL ERROR 201 at line 68, column 9
+identifier 'PKG_DB_LAF_LOV.OPEN_CURSOR' must be declared
+PL/SQL ERROR 0 at line 68, column 6
+Statement ignored
+PL/SQL ERROR 201 at line 199, column 15
+identifier 'PKG_DB_LAF_LOV.GET_LOV_PROPERTY' must be declared
+PL/SQL ERROR 0 at line 199, column 3
+Statement ignored
+PL/SQL ERROR 201 at line 203, column 7
+identifier 'PKG_DB_LAF_LOV.BUILD_LOV_WHERE_CLAUSE' must be declared
+PL/SQL ERROR 0 at line 203, column 7
+Statement ignored
+PL/SQL ERROR 201 at line 205, column 20
+identifier 'PKG_DB_LAF_LOV.GET_LOV_PROPERTY' must be declared
+PL/SQL ERROR 0 at line 205, column 5
+Statement ignored
+PL/SQL ERROR 201 at line 207, column 20
+identifier 'PKG_DB_LAF_LOV.GET_LOV_PROPERTY' must be declared
+PL/SQL ERROR 0 at line 207, column 5
+Statement ignored
+PL/SQL ERROR 201 at line 208, column 20
+identifier 'PKG_DB_LAF_LOV.GET_LOV_PROPERTY' must be declared
+PL/SQL ERROR 0 at line 208, column 5
+Statement ignored
+PL/SQL ERROR 201 at line 210, column 21
+identifier 'PKG_DB_LAF_LOV.OPEN_CURSOR' must be declared
+PL/SQL ERROR 0 at line 210, column 8
+Statement ignored
+PL/SQL ERROR 201 at line 215, column 28
+identifier 'PKG_DB_LAF_LOV.FETCH_CURSOR' must be declared
+PL/SQL ERROR 0 at line 215, column 17
+Statement ignored
+PL/SQL ERROR 201 at line 220, column 14
+identifier 'PKG_DB_LAF_LOV.CLOSE_CURSOR' must be declared
+PL/SQL ERROR 0 at line 220, column 14
+Statement ignored
+PL/SQL ERROR 201 at line 252, column 15
+identifier 'PKG_DB_LAF_LOV.TYP_TAB_LOV_MAPPING' must be declared
+PL/SQL ERROR 0 at line 252, column 15
+Item ignored
+PL/SQL ERROR 201 at line 255, column 14
+identifier 'PKG_DB_LAF_LOV.GET_LOV_INDICE' must be declared
+PL/SQL ERROR 0 at line 255, column 4
+Statement ignored
+PL/SQL ERROR 320 at line 259, column 5
+the declaration of the type of this expression is incomplete or malformed
+PL/SQL ERROR 0 at line 259, column 5
+Statement ignored
+PL/SQL ERROR 320 at line 261, column 17
+the declaration of the type of this expression is incomplete or malformed
+PL/SQL ERROR 0 at line 261, column 3
+Statement ignored
+PL/SQL ERROR 201 at line 311, column 16
+identifier 'PKG_DB_LAF_LOV.CHECK_VALUE' must be declared
+PL/SQL ERROR 0 at line 311, column 3
+Statement ignored
+PL/SQL ERROR 201 at line 313, column 21
+identifier 'PKG_DB_LAF_LOV.GET_LOV_PROPERTY' must be declared
+PL/SQL ERROR 0 at line 313, column 6
+Statement ignored
+
+Failed to generate library.
+
+FRM-30312: Failed to compile the library. 
+
